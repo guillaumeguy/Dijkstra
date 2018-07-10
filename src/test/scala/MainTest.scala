@@ -1,6 +1,6 @@
 /**
   * Created by Guy Guillaume on 2/27/2018
-  * Property of the Boston Consulting Group
+  * Copyright Guillaume Guy
   */
 
 
