@@ -1,6 +1,6 @@
 /**
   * Created by Guy Guillaume on 2/27/2018
-  * Copyright Guillaume Guy
+  * Copyright owner: Guillaume Guy
   */
 
 
